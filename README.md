@@ -48,6 +48,7 @@ func GetBio() Bio {
 	}
 }
 ```
+---
 
 
 ### Tech & Tools Preference
